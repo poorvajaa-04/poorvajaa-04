@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, this is Poorvajaa S👋
 
-<!--
-**poorvajaa-04/poorvajaa-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- *Branch:* Computer Science and Engineering (CSE)
+- *Batch:* 2025-2029
+- *Institute:* VITB
 
-Here are some ideas to get you started:
+I'm a Integrated M.Tech student passionate about learning new technologies, actively exploring coding, digital tools, and collaboration platforms. My goals include:
+- Improving coding skills
+- Working on real-world projects
+- Building a strong professional online presence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope to learn new skills that will help me solve real-world problems and grow as a developer!
