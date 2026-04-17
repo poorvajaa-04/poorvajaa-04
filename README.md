@@ -10,28 +10,28 @@ I’m currently focused on strengthening my foundations in **networking, Linux, 
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming  
-Python • C++ • C • JavaScript  
+• Python  
+• C++ 
+• C 
+• JavaScript  
 
 ### 🌐 Web  
-HTML • CSS • Next.js  
+• HTML 
+• CSS 
+• Next.js  
 
 ### 🐧 Systems & Tools  
-Linux • Wireshark • Git • VS Code • Vercel  
+• Linux 
+• Wireshark 
+• Git 
+• VS Code 
+• Vercel  
 
 ### 🗄️ Data  
-SQL • Excel  
+• SQL 
+• Excel  
 
 ---
-
-## 🧠 Current Focus  
-
-- 🌐 Computer Networking (OSI, TCP/IP, DNS, HTTP/HTTPS)  
-- 🐧 Linux & System Internals  
-- 🔐 Cybersecurity Fundamentals  
-- 🔧 Git, GitHub & Open Source  
-
----
-
 ## 📂 Projects  
 
 ### 🔹 KalaQuest (Hackathon Project)  
@@ -42,6 +42,14 @@ A platform designed to **connect artisans directly with customers**, reducing re
 - Focused on accessibility and digital visibility for local creators  
 
 👉 *Next Step:* Improving scalability & adding secure transaction features  
+
+---
+## 🧠 Current Focus  
+
+- 🌐 Computer Networking (OSI, TCP/IP, DNS, HTTP/HTTPS)  
+- 🐧 Linux & System Internals  
+- 🔐 Cybersecurity Fundamentals  
+- 🔧 Git, GitHub & Open Source  
 
 ---
 
