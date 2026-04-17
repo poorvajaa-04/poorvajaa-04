@@ -10,26 +10,26 @@ I’m currently focused on strengthening my foundations in **networking, Linux, 
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming  
-• Python  
-• C++ 
-• C 
-• JavaScript  
+- Python  
+- C++ 
+- C 
+- JavaScript  
 
 ### 🌐 Web  
-• HTML 
-• CSS 
-• Next.js  
+- HTML 
+- CSS 
+- Next.js  
 
 ### 🐧 Systems & Tools  
-• Linux 
-• Wireshark 
-• Git 
-• VS Code 
-• Vercel  
+- Linux 
+- Wireshark 
+- Git 
+- VS Code 
+- Vercel  
 
 ### 🗄️ Data  
-• SQL 
-• Excel  
+- SQL 
+- Excel  
 
 ---
 ## 📂 Projects  
