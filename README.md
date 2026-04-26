@@ -63,8 +63,10 @@ A platform designed to **connect artisans directly with customers**, reducing re
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poorvajaa-04&show_icons=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poorvajaa-04&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvajaa-04&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 ---
 
 ## Connect with Me  
