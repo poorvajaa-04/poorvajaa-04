@@ -7,27 +7,27 @@ I’m currently focused on strengthening my foundations in **networking, Linux, 
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 💻 Programming  
+### Programming  
 - Python  
 - C++ 
 - C 
 - JavaScript  
 
-### 🌐 Web  
+### Web  
 - HTML 
 - CSS 
 - Next.js  
 
-### 🐧 Systems & Tools  
+### Systems & Tools  
 - Linux 
 - Wireshark 
 - Git 
 - VS Code 
 - Vercel  
 
-### 🗄️ Data  
+### Data  
 - SQL 
 - Excel  
 
@@ -53,12 +53,11 @@ A platform designed to **connect artisans directly with customers**, reducing re
 
 ---
 
-## 🎯 Goals  
+## Goals  
 
-- 🚀 Contribute to Open Source (GSSoC)  
-- 🔐 Build beginner-friendly cybersecurity tools  
-- 📈 Develop strong networking & system fundamentals  
-- 💼 Grow into a Cybersecurity Engineer  
+-  Contribute to Open Source (GSSoC)  
+-  Build beginner-friendly cybersecurity tools  
+-  Develop strong networking & system fundamentals  
 
 ---
 
@@ -68,7 +67,7 @@ A platform designed to **connect artisans directly with customers**, reducing re
 
 ---
 
-## 🤝 Connect with Me  
+## Connect with Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/poorvajaa-s-286a50398/  
-- 📧 Email: poorvajaa.16@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/poorvajaa-s-286a50398/  
+-  Email: poorvajaa.16@gmail.com  
