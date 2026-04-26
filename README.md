@@ -66,6 +66,13 @@ A platform designed to **connect artisans directly with customers**, reducing re
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajaa-04&bg_color=transparent&color=555&line=4C8EDA&point=888&hide_border=true"/>
 </p>
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajaa-04&bg_color=transparent&color=555&line=4C8EDA&point=888&hide_border=true"/>
+</p>
+
 ---
 
 ## Connect with Me  
