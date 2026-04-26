@@ -64,11 +64,7 @@ A platform designed to **connect artisans directly with customers**, reducing re
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvajaa-04&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=555&icon_color=4C8EDA" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvajaa-04&layout=compact&hide_border=true&bg_color=00000000&text_color=555" height="120"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajaa-04&bg_color=transparent&color=555&line=4C8EDA&point=888&hide_border=true"/>
 </p>
 ---
 
