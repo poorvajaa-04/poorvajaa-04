@@ -61,14 +61,6 @@ A platform designed to **connect artisans directly with customers**, reducing re
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvajaa-04&bg_color=transparent&color=555&line=4C8EDA&point=888&hide_border=true"/>
-</p>
-
----
-
 ## Connect with Me  
 
 -  LinkedIn: https://www.linkedin.com/in/poorvajaa-s-286a50398/  
